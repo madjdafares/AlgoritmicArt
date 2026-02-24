@@ -9,7 +9,7 @@ This piece is a 5x5 matrix of tiles (25 tiles total). Each tile contains a uniqu
 - R: regenerate (new seed)
 - Space: restart from the beginning (forward)
 - P: pause or play
-- + / -: speed up or slow down
+- (+ / -) : speed up or slow down
 
 
 ## Files
